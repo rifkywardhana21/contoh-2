@@ -39,3 +39,11 @@ while pilihan != 5:
 
     else:
         print("Menu tidak tersedia")
+
+
+#DESCRIPTION OUTPUT :
+# 1. Andi - Nilai: 80
+# 2. Budi - Nilai: 90
+
+# Rata-rata Nilai: 85
+# Jumlah Siswa: 2
