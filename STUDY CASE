@@ -1,0 +1,28 @@
+STUDY CASE PROJECT : Aplikasi Manajemen Data Sederhana Menggunakan Loop dan Percabangan (Python)
+
+Kamu adalah seorang siswa jurusan RPL yang diminta membantu sebuah lingkungan sekolah kecil yang masih mencatat data secara manual di buku tulis. Cara ini sering menimbulkan masalah, seperti data yang tercecer, sulit dicari, dan memakan waktu lama saat ingin menghitung jumlah atau melihat laporan.
+Untuk mengatasi masalah tersebut, kamu diminta membuat sebuah aplikasi sederhana berbasis teks (console) menggunakan bahasa pemrograman Python. Aplikasi ini berjalan di terminal dan dapat digunakan oleh siapa saja meskipun tanpa tampilan grafis.
+
+Aplikasi yang kamu buat harus berjalan secara terus-menerus dan menampilkan menu interaktif, sehingga pengguna dapat memilih apa yang ingin dilakukan, seperti:
+a. Menambahkan data baru
+b. Menampilkan data yang sudah disimpan
+c. Menghitung jumlah atau rata-rata data
+d. Keluar dari aplikasi
+
+Data yang dikelola bebas kamu tentukan sesuai ide dan kreativitas, misalnya:
+a. Data siswa dan nilai
+b. Data buku perpustakaan
+c. Data barang di koperasi sekolah
+d. Data absensi siswa
+e. Data menu kantin
+f. Atau ide lain yang kamu anggap bermanfaat
+
+Setiap kali pengguna memilih menu, program akan menjalankan perintah yang sesuai, lalu kembali ke menu utama tanpa harus menjalankan ulang program. Program hanya akan berhenti jika pengguna memilih menu Keluar.
+Melalui project ini, kamu diharapkan mampu menerapkan:
+
+a. Loop (while dan for) untuk mengulang proses
+b. Percabangan (if – elif – else) untuk menentukan pilihan menu
+c. List (array) untuk menyimpan dan mengelola data
+d. Logika berpikir terstruktur seperti aplikasi di dunia nyata
+
+Aplikasi ini memang sederhana, tetapi konsep yang digunakan merupakan dasar penting dalam pembuatan software, dan akan terus dipakai pada materi pemrograman yang lebih lanjut.
