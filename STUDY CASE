@@ -19,7 +19,6 @@ f. Atau ide lain yang kamu anggap bermanfaat
 
 Setiap kali pengguna memilih menu, program akan menjalankan perintah yang sesuai, lalu kembali ke menu utama tanpa harus menjalankan ulang program. Program hanya akan berhenti jika pengguna memilih menu Keluar.
 Melalui project ini, kamu diharapkan mampu menerapkan:
-
 a. Loop (while dan for) untuk mengulang proses
 b. Percabangan (if – elif – else) untuk menentukan pilihan menu
 c. List (array) untuk menyimpan dan mengelola data
