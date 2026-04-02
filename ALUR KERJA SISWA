@@ -1,0 +1,43 @@
+1. Pembentukan Kelompok:
+A. Siswa membentuk kelompok berisi 2 orang
+B. Setiap kelompok menentukan nama kelompok
+C. Menyepakati pembagian tugas sederhana.
+
+2. Menentukan Ide Aplikasi :
+A. Kelompok memilih jenis data yang akan dikelola
+B. Contoh:
+   a. Data & nilai siswa
+   b. Absensi kelas
+   c. Data buku perpustakaan
+   d. Data barang koperasi
+C. Menentukan tujuan aplikasi
+
+3. Merancang Fitur Aplikasi :
+A. Kelompok membuat daftar fitur yang akan ada di aplikasi, minimal:
+   a. Tambah data
+   b. Tampilkan data
+   c. Hitung jumlah / rata-rata
+   d. Keluar program   
+noted : (boleh menambah fitur lain sebagai nilai tambah)
+
+4. Role Kelompok (2 Orang)
+Anggota 1 – Programmer
+a. Menulis dan menjalankan source code
+b. Menerapkan loop, percabangan, dan list
+c. Memperbaiki error program
+
+Anggota 2 – Logika & Tester
+a. Menentukan ide dan alur program
+b. Menguji setiap menu
+
+5. Menyusun Flow (alur)
+A. Siswa mendeskripsikan alur program secara sederhana:
+1. Program dijalankan
+2. Menu utama ditampilkan
+3. User memilih menu
+4. Program menjalankan perintah sesuai pilihan
+5. Program kembali ke menu
+6. Program berhenti jika user memilih keluar
+
+6. Pengumpulan tugas : GOOGLE DRIVE
+https://drive.google.com/drive/folders/1tMDSGRCKej9x1DzuKVgUFiy0x5M8X_Zl?usp=sharing
